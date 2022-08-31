@@ -1,0 +1,8 @@
+1.left shift
+2.rigth shift
+3.check set unset
+4.set nth bit
+5.Unset nth bit
+6.toggle nth bit
+
+
